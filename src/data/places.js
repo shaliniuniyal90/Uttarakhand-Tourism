@@ -7,11 +7,11 @@ const places = [
     description: "Yoga capital of the world. Famous for river rafting, bungee jumping, and peaceful ghats.",
     bestTime: "September to November",
     distance: "43 km from Dehradun",
-    image: "src/assets/images/rishikesh.jpg",
+    image: "/Uttarakhand-Tourism/images/rishikesh.jpg",
     images: [
-      "src/assets/images/rishikesh1.jpg",
-      "src/assets/images/rishikesh2.jpg",
-      "src/assets/images/rishikesh3.jpg"
+      "/Uttarakhand-Tourism/images/rishikesh1.jpg",
+      "/Uttarakhand-Tourism/images/rishikesh2.jpg",
+      "/Uttarakhand-Tourism/images/rishikesh3.jpg"
     ],
     highlights: ["Laxman Jhula", "River Rafting", "Beatles Ashram"],
     hotels: [
@@ -33,11 +33,11 @@ const places = [
     description: "Queen of Hills. Beautiful viewpoints, colonial charm, and cool weather.",
     bestTime: "March to June",
     distance: "35 km from Dehradun",
-    image: "src/assets/images/Mussoorie.jpg",
+    image: "/Uttarakhand-Tourism/images/Mussoorie.jpg",
     images: [
-      "src/assets/images/Mussoorie1.jpg",
-      "src/assets/images/Mussoorie2.jpg",
-      "src/assets/images/Mussoorie3.jpg"
+      "/Uttarakhand-Tourism/images/Mussoorie1.jpg",
+      "/Uttarakhand-Tourism/images/Mussoorie2.jpg",
+      "/Uttarakhand-Tourism/images/Mussoorie3.jpg"
     ],
     highlights: ["Kempty Falls", "Gun Hill", "Mall Road"],
     hotels: [
@@ -59,11 +59,11 @@ const places = [
     description: "One of the 12 Jyotirlingas. Sacred temple surrounded by snow-capped peaks.",
     bestTime: "May to June",
     distance: "247 km from Dehradun",
-    image: "src/assets/images/kedarnath1.jpg",
+    image: "/Uttarakhand-Tourism/images/kedarnath1.jpg",
     images: [
-      "src/assets/images/kedarnath.jpg",
-      "src/assets/images/keadrnath2.jpg",
-      "src/assets/images/kedarnath3.jpg"
+      "/Uttarakhand-Tourism/images/kedarnath.jpg",
+      "/Uttarakhand-Tourism/images/keadrnath2.jpg",
+      "/Uttarakhand-Tourism/images/kedarnath3.jpg"
     ],
     highlights: ["Kedarnath Temple", "Vasuki Tal", "Chorabari Lake"],
     hotels: [
@@ -85,11 +85,11 @@ const places = [
     description: "City of lakes. Famous for Naini Lake, boating, and scenic viewpoints.",
     bestTime: "March to June",
     distance: "277 km from Dehradun",
-    image: "src/assets/images/nainital.jpeg",
+    image: "/Uttarakhand-Tourism/images/nainital.jpeg",
     images: [
-      "src/assets/images/nainital1.jpg",
-      "src/assets/images/nainital2.jpg",
-      "src/assets/images/nainital3.jpg"
+      "/Uttarakhand-Tourism/images/nainital1.jpg",
+      "/Uttarakhand-Tourism/images/nainital2.jpg",
+      "/Uttarakhand-Tourism/images/nainital3.jpg"
     ],
     highlights: ["Naini Lake", "Snow View Point", "Naina Devi Temple"],
     hotels: [
@@ -111,11 +111,11 @@ const places = [
     description: "Gateway to God. Famous for Ganga Aarti, ghats, and spiritual energy.",
     bestTime: "October to February",
     distance: "54 km from Dehradun",
-    image: "src/assets/images/haridwar1.jpg",
+    image: "/Uttarakhand-Tourism/images/haridwar1.jpg",
     images: [
-      "src/assets/images/haridwar.jpg",
-      "src/assets/images/haridwar2.jpg",
-      "src/assets/images/haridwar3.jpg"
+      "/Uttarakhand-Tourism/images/haridwar.jpg",
+      "/Uttarakhand-Tourism/images/haridwar2.jpg",
+      "/Uttarakhand-Tourism/images/haridwar3.jpg"
     ],
     highlights: ["Har Ki Pauri", "Ganga Aarti", "Mansa Devi Temple"],
     hotels: [
@@ -137,11 +137,11 @@ const places = [
     description: "India's best ski resort. Stunning views of Nanda Devi and snow covered slopes.",
     bestTime: "December to February",
     distance: "298 km from Dehradun",
-    image: "src/assets/images/Auli.jpg",
+    image: "/Uttarakhand-Tourism/images/Auli.jpg",
     images: [
-      "src/assets/images/Auli1.jpg",
-      "src/assets/images/Auli2.jpg",
-      "src/assets/images/Auli3.jpg"
+      "/Uttarakhand-Tourism/images/Auli1.jpg",
+      "/Uttarakhand-Tourism/images/Auli2.jpg",
+      "/Uttarakhand-Tourism/images/Auli3.jpg"
     ],
     highlights: ["Skiing", "Gorson Bugyal", "Auli Ropeway"],
     hotels: [
@@ -163,11 +163,11 @@ const places = [
     description: "India's oldest national park. Home to Bengal tigers, elephants, and rich wildlife.",
     bestTime: "November to June",
     distance: "185 km from Dehradun",
-    image: "src/assets/images/Jim _Corbett.jpg",
+    image: "/Uttarakhand-Tourism/images/Jim _Corbett.jpg",
     images: [
-      "src/assets/images/Jim_Corbett1.jpg",
-      "src/assets/images/Jim_Corbett2.jpg",
-      "src/assets/images/Jim_Corbett3.jpg"
+      "/Uttarakhand-Tourism/images/Jim_Corbett1.jpg",
+      "/Uttarakhand-Tourism/images/Jim_Corbett2.jpg",
+      "/Uttarakhand-Tourism/images/Jim_Corbett3.jpg"
     ],
     highlights: ["Tiger Safari", "Dhikala Zone", "Corbett Museum"],
     hotels: [
@@ -189,11 +189,11 @@ const places = [
     description: "Capital of Uttarakhand. Gateway to many hill stations with pleasant weather year round.",
     bestTime: "October to June",
     distance: "0 km — You are here!",
-    image: "src/assets/images/Dehradun.jpg",
+    image: "/Uttarakhand-Tourism/images/Dehradun.jpg",
     images: [
-      "src/assets/images/Dehradun1.jpg",
-      "src/assets/images/Dehradun2.jpg",
-      "src/assets/images/Dehradun3.jpg"
+      "/Uttarakhand-Tourism/images/Dehradun1.jpg",
+      "/Uttarakhand-Tourism/images/Dehradun2.jpg",
+      "/Uttarakhand-Tourism/images/Dehradun3.jpg"
     ],
     highlights: ["Robber's Cave", "Sahastradhara", "Mindrolling Monastery"],
     hotels: [
@@ -215,11 +215,11 @@ const places = [
     description: "A charming hill town known for its rich cultural heritage, scenic Himalayan views, and ancient temples.",
     bestTime: "March to June",
     distance: "322 km from Dehradun",
-    image: "src/assets/images/Almora.jpg",
+    image: "/Uttarakhand-Tourism/images/Almora.jpg",
     images: [
-      "src/assets/images/Almora1.jpg",
-      "src/assets/images/Almora2.jpg",
-      "src/assets/images/Almora3.jpg"
+      "/Uttarakhand-Tourism/images/Almora1.jpg",
+      "/Uttarakhand-Tourism/images/Almora2.jpg",
+      "/Uttarakhand-Tourism/images/Almora3.jpg"
     ],
     highlights: ["Bright End Corner", "Chitai Temple", "Zero Point"],
     hotels: [
@@ -241,11 +241,11 @@ const places = [
     description: "One of the Char Dham pilgrimage sites. Sacred temple dedicated to Lord Vishnu amidst the Himalayas.",
     bestTime: "May to June",
     distance: "317 km from Dehradun",
-    image: "src/assets/images/Badrinath.jpg",
+    image: "/Uttarakhand-Tourism/images/Badrinath.jpg",
     images: [
-      "src/assets/images/Badrinath1.jpg",
-      "src/assets/images/Badrinath3.jpg",
-      "src/assets/images/Badrinath4.jpg"
+      "/Uttarakhand-Tourism/images/Badrinath1.jpg",
+      "/Uttarakhand-Tourism/images/Badrinath3.jpg",
+      "/Uttarakhand-Tourism/images/Badrinath4.jpg"
     ],
     highlights: ["Badrinath Temple", "Tapt Kund", "Neelkanth Peak"],
     hotels: [
@@ -267,11 +267,11 @@ const places = [
     description: "A serene hill station near Dehradun, known for dense forests, waterfalls, and offbeat trekking trails.",
     bestTime: "April to June",
     distance: "88 km from Dehradun",
-    image: "src/assets/images/Chakrata.jpg",
+    image: "/Uttarakhand-Tourism/images/Chakrata.jpg",
     images: [
-      "src/assets/images/Chakrata1.jpg",
-      "src/assets/images/Chakrata2.jpg",
-      "src/assets/images/Chakrata3.jpg"
+      "/Uttarakhand-Tourism/images/Chakrata1.jpg",
+      "/Uttarakhand-Tourism/images/Chakrata2.jpg",
+      "/Uttarakhand-Tourism/images/Chakrata3.jpg"
     ],
     highlights: ["Tiger Falls", "Deoban Forest", "Chilmiri Neck"],
     hotels: [
@@ -293,11 +293,11 @@ const places = [
     description: "Mini Switzerland of India. Base camp for Tungnath and Chandrashila trek with stunning meadows.",
     bestTime: "April to November",
     distance: "220 km from Dehradun",
-    image: "src/assets/images/Chopta.jpg",
+    image: "/Uttarakhand-Tourism/images/Chopta.jpg",
     images: [
-      "src/assets/images/Chopta1.jpg",
-      "src/assets/images/Chopta2.jpg",
-      "src/assets/images/Chopta3.jpg"
+      "/Uttarakhand-Tourism/images/Chopta1.jpg",
+      "/Uttarakhand-Tourism/images/Chopta2.jpg",
+      "/Uttarakhand-Tourism/images/Chopta3.jpg"
     ],
     highlights: ["Tungnath Temple", "Chandrashila Trek", "Deoria Tal"],
     hotels: [
@@ -319,11 +319,11 @@ const places = [
     description: "A quiet hill retreat near Mussoorie with dense forests, eco parks, and stunning Himalayan views.",
     bestTime: "March to June",
     distance: "62 km from Dehradun",
-    image: "src/assets/images/Dhanaulti.jpg",
+    image: "/Uttarakhand-Tourism/images/Dhanaulti.jpg",
     images: [
-      "src/assets/images/Dhanaulti1.jpg",
-      "src/assets/images/Dhanaulti2.jpg",
-      "src/assets/images/Dhanaulti3.jpg"
+      "/Uttarakhand-Tourism/images/Dhanaulti1.jpg",
+      "/Uttarakhand-Tourism/images/Dhanaulti2.jpg",
+      "/Uttarakhand-Tourism/images/Dhanaulti3.jpg"
     ],
     highlights: ["Eco Park", "Surkanda Devi Temple", "Snow Activities"],
     hotels: [
@@ -345,11 +345,11 @@ const places = [
     description: "Origin of the holy river Ganga. A sacred Char Dham site with stunning glacial landscapes.",
     bestTime: "May to June",
     distance: "245 km from Dehradun",
-    image: "src/assets/images/Gangotri.jpg",
+    image: "/Uttarakhand-Tourism/images/Gangotri.jpg",
     images: [
-      "src/assets/images/Gangotri1.jpg",
-      "src/assets/images/Gangotri2.jpg",
-      "src/assets/images/Gangotri3.jpg"
+      "/Uttarakhand-Tourism/images/Gangotri1.jpg",
+      "/Uttarakhand-Tourism/images/Gangotri2.jpg",
+      "/Uttarakhand-Tourism/images/Gangotri3.jpg"
     ],
     highlights: ["Gangotri Temple", "Gaumukh Glacier", "Bhagirathi River"],
     hotels: [
@@ -371,11 +371,11 @@ const places = [
     description: "Switzerland of India. Panoramic views of Himalayan peaks including Nanda Devi and Trishul.",
     bestTime: "March to June",
     distance: "360 km from Dehradun",
-    image: "src/assets/images/Kausani.jpg",
+    image: "/Uttarakhand-Tourism/images/Kausani.jpg",
     images: [
-      "src/assets/images/Kausani1.jpg",
-      "src/assets/images/Kausani2.jpg",
-      "src/assets/images/Kausani3.jpg"
+      "/Uttarakhand-Tourism/images/Kausani1.jpg",
+      "/Uttarakhand-Tourism/images/Kausani2.jpg",
+      "/Uttarakhand-Tourism/images/Kausani3.jpg"
     ],
     highlights: ["Anasakti Ashram", "Rudradhari Falls", "Sunset Point"],
     hotels: [
@@ -397,11 +397,11 @@ const places = [
     description: "A peaceful hill station with apple orchards, old Shiva temple, and breathtaking Himalayan views.",
     bestTime: "March to June",
     distance: "298 km from Dehradun",
-    image: "src/assets/images/Mukteshwar.jpg",
+    image: "/Uttarakhand-Tourism/images/Mukteshwar.jpg",
     images: [
-      "src/assets/images/Mukteshwar1.jpg",
-      "src/assets/images/Mukteshwar2.jpg",
-      "src/assets/images/Mukteshwar3.jpg"
+      "/Uttarakhand-Tourism/images/Mukteshwar1.jpg",
+      "/Uttarakhand-Tourism/images/Mukteshwar2.jpg",
+      "/Uttarakhand-Tourism/images/Mukteshwar3.jpg"
     ],
     highlights: ["Mukteshwar Temple", "Chauli Ki Jali", "Bhalu Gaad Waterfall"],
     hotels: [
@@ -423,11 +423,11 @@ const places = [
     description: "Gateway to Gangotri and Yamunotri. A trekker's paradise with the Nehru Institute of Mountaineering.",
     bestTime: "April to June",
     distance: "173 km from Dehradun",
-    image: "src/assets/images/Uttarkashi.jpg",
+    image: "/Uttarakhand-Tourism/images/Uttarkashi.jpg",
     images: [
-      "src/assets/images/Uttarkashi1.jpg",
-      "src/assets/images/Uttarkashi2.jpg",
-      "src/assets/images/Uttarkashi3.jpg"
+      "/Uttarakhand-Tourism/images/Uttarkashi1.jpg",
+      "/Uttarakhand-Tourism/images/Uttarkashi2.jpg",
+      "/Uttarakhand-Tourism/images/Uttarkashi3.jpg"
     ],
     highlights: ["Nehru Institute of Mountaineering", "Vishwanath Temple", "Dodital Lake"],
     hotels: [
@@ -449,11 +449,11 @@ const places = [
     description: "Source of the Yamuna river and one of the Char Dham sites. Sacred pilgrimage surrounded by glaciers.",
     bestTime: "May to June",
     distance: "175 km from Dehradun",
-    image: "src/assets/images/Yamunotri.jpg",
+    image: "/Uttarakhand-Tourism/images/Yamunotri.jpg",
     images: [
-      "src/assets/images/Yamunotri1.jpg",
-      "src/assets/images/Yamunotri2.jpg",
-      "src/assets/images/Yamunotri3.jpg"
+      "/Uttarakhand-Tourism/images/Yamunotri1.jpg",
+      "/Uttarakhand-Tourism/images/Yamunotri2.jpg",
+      "/Uttarakhand-Tourism/images/Yamunotri3.jpg"
     ],
     highlights: ["Yamunotri Temple", "Surya Kund", "Divya Shila"],
     hotels: [
@@ -475,11 +475,11 @@ const places = [
     description: "Home to Asia's largest dam. Famous for water sports, bungee jumping, and stunning lake views.",
     bestTime: "October to June",
     distance: "100 km from Dehradun",
-    image: "src/assets/images/Tehri.jpg",
+    image: "/Uttarakhand-Tourism/images/Tehri.jpg",
     images: [
-      "src/assets/images/Tehri1.jpg",
-      "src/assets/images/Tehri2.jpg",
-      "src/assets/images/Tehri3.jpg"
+      "/Uttarakhand-Tourism/images/Tehri1.jpg",
+      "/Uttarakhand-Tourism/images/Tehri2.jpg",
+      "/Uttarakhand-Tourism/images/Tehri3.jpg"
     ],
     highlights: ["Tehri Dam", "Water Sports", "Bungee Jumping"],
     hotels: [
@@ -501,11 +501,11 @@ const places = [
     description: "A peaceful cantonment hill town with colonial charm, dense oak forests, and stunning views of the Himalayas.",
     bestTime: "October to June",
     distance: "145 km from Dehradun",
-    image: "src/assets/images/lansdowne.jpg",
+    image: "/Uttarakhand-Tourism/images/lansdowne.jpg",
     images: [
-      "src/assets/images/lansdowne1.jpg",
-      "src/assets/images/lansdowne2.jpg",
-      "src/assets/images/lansdowne3.jpg"
+      "/Uttarakhand-Tourism/images/lansdowne1.jpg",
+      "/Uttarakhand-Tourism/images/lansdowne2.jpg",
+      "/Uttarakhand-Tourism/images/lansdowne3.jpg"
     ],
     highlights: ["Tip N Top Point", "Bhim Pakora", "War Memorial"],
     hotels: [
@@ -527,11 +527,11 @@ const places = [
     description: "Queen's Field — a serene cantonment town with apple orchards, golf course, and panoramic Himalayan views.",
     bestTime: "March to June",
     distance: "330 km from Dehradun",
-    image: "src/assets/images/Ranikhet.jpg",
+    image: "/Uttarakhand-Tourism/images/Ranikhet.jpg",
     images: [
-      "src/assets/images/Ranikhet1.jpg",
-      "src/assets/images/Ranikhet2.jpg",
-      "src/assets/images/Ranikhet3.jpg"
+      "/Uttarakhand-Tourism/images/Ranikhet1.jpg",
+      "/Uttarakhand-Tourism/images/Ranikhet2.jpg",
+      "/Uttarakhand-Tourism/images/Ranikhet3.jpg"
     ],
     highlights: ["Chaubatia Gardens", "Golf Course", "Jhula Devi Temple"],
     hotels: [

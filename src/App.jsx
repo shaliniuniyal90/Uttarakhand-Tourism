@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import { useState } from 'react'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
@@ -19,7 +19,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar favouriteCount={favourites.length} />
       <Routes>
         <Route path="/" element={<Home toggleFavourite={toggleFavourite} favourites={favourites} />} />
@@ -28,7 +28,7 @@ function App() {
         <Route path="/favourites" element={<Favourites toggleFavourite={toggleFavourite} favourites={favourites} />} />
       </Routes>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 

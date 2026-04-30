@@ -1,16 +1,23 @@
-# React + Vite
+# 🏔️ Uttarakhand Tourism
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A tourism web app built with React.js + Vite featuring 20+ destinations across Uttarakhand — Dev Bhoomi, Land of Gods.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[https://shaliniuniyal90.github.io/Uttarakhand-Tourism/](https://shaliniuniyal90.github.io/Uttarakhand-Tourism/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- 20+ destinations across Garhwal & Kumaon regions
+- Filter by category — Mountains, Temples, Adventure, Wildlife
+- Live weather using OpenWeather API
+- Save favourite places
+- Hotel & restaurant info for each destination
+- Detailed place pages
 
-## React Compiler
+## 🛠️ Tech Stack
+- React.js 19
+- Vite 8
+- React Router DOM
+- OpenWeather API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Developer
+Made with ❤️ by **Shalini Uniyal**
